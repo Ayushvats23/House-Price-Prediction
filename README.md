@@ -9,8 +9,10 @@ house-price-prediction
 - data/
 -   ├── train.csv              # Training data (with SalePrice target)
 -   └── test.csv                # Test data (for generating predictions)
+
 -── notebooks/ 
 -   └── House_Price_Prediction.ipynb   # Full EDA + model notebook
+
 -── README.md     generate a similar workflow fast for github readme
 
 Dataset
