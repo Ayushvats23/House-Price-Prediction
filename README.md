@@ -5,15 +5,13 @@ A machine learning project that predicts residential home sale prices using the 
 
 Repository Structure
 
-house-price-prediction/
-├── data/
-│   ├── train.csv              # Training data (with SalePrice target)
-│   └── test.csv                # Test data (for generating predictions)
-├── notebooks/
-│   └── House_Price_Prediction.ipynb   # Full EDA + model notebook
-├── requirements.txt            # Python dependencies
-├── .gitignore                  # Files/folders excluded from git
-└── README.md                   # Project overview and instructions
+house-price-prediction
+- data/
+-   ├── train.csv              # Training data (with SalePrice target)
+-   └── test.csv                # Test data (for generating predictions)
+-── notebooks/ 
+-   └── House_Price_Prediction.ipynb   # Full EDA + model notebook
+-── README.md     generate a similar workflow fast for github readme
 
 Dataset
 
